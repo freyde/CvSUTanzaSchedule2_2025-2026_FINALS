@@ -69,12 +69,28 @@
       <Hour name="09:30 - 10:00">
       </Hour>
       <Hour name="10:00 - 10:30">
+        <Activity id="82"></Activity>
+        <Subject name="EDUC 65"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="10:30 - 11:00">
+        <Activity id="82"></Activity>
+        <Subject name="EDUC 65"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="11:00 - 11:30">
+        <Activity id="82"></Activity>
+        <Subject name="EDUC 65"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="11:30 - 12:00">
+        <Activity id="82"></Activity>
+        <Subject name="EDUC 65"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="12:00 - 12:30">
       </Hour>
@@ -139,28 +155,12 @@
       <Hour name="13:30 - 14:00">
       </Hour>
       <Hour name="14:00 - 14:30">
-        <Activity id="82"></Activity>
-        <Subject name="EDUC 65"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="14:30 - 15:00">
-        <Activity id="82"></Activity>
-        <Subject name="EDUC 65"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="15:00 - 15:30">
-        <Activity id="82"></Activity>
-        <Subject name="EDUC 65"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="15:30 - 16:00">
-        <Activity id="82"></Activity>
-        <Subject name="EDUC 65"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="16:00 - 16:30">
       </Hour>
@@ -411,12 +411,28 @@
       <Hour name="09:30 - 10:00">
       </Hour>
       <Hour name="10:00 - 10:30">
+        <Activity id="83"></Activity>
+        <Subject name="EDUC 65"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="10:30 - 11:00">
+        <Activity id="83"></Activity>
+        <Subject name="EDUC 65"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="11:00 - 11:30">
+        <Activity id="83"></Activity>
+        <Subject name="EDUC 65"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="11:30 - 12:00">
+        <Activity id="83"></Activity>
+        <Subject name="EDUC 65"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="12:00 - 12:30">
       </Hour>
@@ -481,28 +497,12 @@
       <Hour name="13:30 - 14:00">
       </Hour>
       <Hour name="14:00 - 14:30">
-        <Activity id="83"></Activity>
-        <Subject name="EDUC 65"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="14:30 - 15:00">
-        <Activity id="83"></Activity>
-        <Subject name="EDUC 65"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="15:00 - 15:30">
-        <Activity id="83"></Activity>
-        <Subject name="EDUC 65"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="15:30 - 16:00">
-        <Activity id="83"></Activity>
-        <Subject name="EDUC 65"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="16:00 - 16:30">
       </Hour>
@@ -753,12 +753,28 @@
       <Hour name="09:30 - 10:00">
       </Hour>
       <Hour name="10:00 - 10:30">
+        <Activity id="84"></Activity>
+        <Subject name="EDUC 65"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="10:30 - 11:00">
+        <Activity id="84"></Activity>
+        <Subject name="EDUC 65"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="11:00 - 11:30">
+        <Activity id="84"></Activity>
+        <Subject name="EDUC 65"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="11:30 - 12:00">
+        <Activity id="84"></Activity>
+        <Subject name="EDUC 65"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="12:00 - 12:30">
       </Hour>
@@ -823,28 +839,12 @@
       <Hour name="13:30 - 14:00">
       </Hour>
       <Hour name="14:00 - 14:30">
-        <Activity id="84"></Activity>
-        <Subject name="EDUC 65"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="14:30 - 15:00">
-        <Activity id="84"></Activity>
-        <Subject name="EDUC 65"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="15:00 - 15:30">
-        <Activity id="84"></Activity>
-        <Subject name="EDUC 65"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="15:30 - 16:00">
-        <Activity id="84"></Activity>
-        <Subject name="EDUC 65"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="16:00 - 16:30">
       </Hour>
@@ -1039,58 +1039,42 @@
       <Hour name="09:00 - 09:30">
       </Hour>
       <Hour name="09:30 - 10:00">
-        <Activity id="334"></Activity>
-        <Subject name="BADM 21"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="10:00 - 10:30">
-        <Activity id="334"></Activity>
-        <Subject name="BADM 21"></Subject>
+        <Activity id="10"></Activity>
+        <Subject name="BADM 23"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 202"></Room>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="10:30 - 11:00">
-        <Activity id="334"></Activity>
-        <Subject name="BADM 21"></Subject>
+        <Activity id="10"></Activity>
+        <Subject name="BADM 23"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 202"></Room>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="11:00 - 11:30">
-        <Activity id="334"></Activity>
-        <Subject name="BADM 21"></Subject>
+        <Activity id="10"></Activity>
+        <Subject name="BADM 23"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 202"></Room>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="11:30 - 12:00">
+        <Activity id="10"></Activity>
+        <Subject name="BADM 23"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="12:00 - 12:30">
       </Hour>
       <Hour name="12:30 - 13:00">
       </Hour>
       <Hour name="13:00 - 13:30">
-        <Activity id="10"></Activity>
-        <Subject name="BADM 23"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="13:30 - 14:00">
-        <Activity id="10"></Activity>
-        <Subject name="BADM 23"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="14:00 - 14:30">
-        <Activity id="10"></Activity>
-        <Subject name="BADM 23"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="14:30 - 15:00">
-        <Activity id="10"></Activity>
-        <Subject name="BADM 23"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="15:00 - 15:30">
       </Hour>
@@ -1119,12 +1103,28 @@
       <Hour name="07:30 - 08:00">
       </Hour>
       <Hour name="08:00 - 08:30">
+        <Activity id="334"></Activity>
+        <Subject name="BADM 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 204"></Room>
       </Hour>
       <Hour name="08:30 - 09:00">
+        <Activity id="334"></Activity>
+        <Subject name="BADM 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 204"></Room>
       </Hour>
       <Hour name="09:00 - 09:30">
+        <Activity id="334"></Activity>
+        <Subject name="BADM 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 204"></Room>
       </Hour>
       <Hour name="09:30 - 10:00">
+        <Activity id="334"></Activity>
+        <Subject name="BADM 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 204"></Room>
       </Hour>
       <Hour name="10:00 - 10:30">
       </Hour>
@@ -1397,58 +1397,42 @@
       <Hour name="09:00 - 09:30">
       </Hour>
       <Hour name="09:30 - 10:00">
-        <Activity id="335"></Activity>
-        <Subject name="BADM 21"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="10:00 - 10:30">
-        <Activity id="335"></Activity>
-        <Subject name="BADM 21"></Subject>
+        <Activity id="11"></Activity>
+        <Subject name="BADM 23"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
         <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="10:30 - 11:00">
-        <Activity id="335"></Activity>
-        <Subject name="BADM 21"></Subject>
+        <Activity id="11"></Activity>
+        <Subject name="BADM 23"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
         <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="11:00 - 11:30">
-        <Activity id="335"></Activity>
-        <Subject name="BADM 21"></Subject>
+        <Activity id="11"></Activity>
+        <Subject name="BADM 23"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
         <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="11:30 - 12:00">
+        <Activity id="11"></Activity>
+        <Subject name="BADM 23"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="12:00 - 12:30">
       </Hour>
       <Hour name="12:30 - 13:00">
       </Hour>
       <Hour name="13:00 - 13:30">
-        <Activity id="11"></Activity>
-        <Subject name="BADM 23"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="13:30 - 14:00">
-        <Activity id="11"></Activity>
-        <Subject name="BADM 23"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="14:00 - 14:30">
-        <Activity id="11"></Activity>
-        <Subject name="BADM 23"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="14:30 - 15:00">
-        <Activity id="11"></Activity>
-        <Subject name="BADM 23"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="15:00 - 15:30">
       </Hour>
@@ -1477,12 +1461,28 @@
       <Hour name="07:30 - 08:00">
       </Hour>
       <Hour name="08:00 - 08:30">
+        <Activity id="335"></Activity>
+        <Subject name="BADM 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="08:30 - 09:00">
+        <Activity id="335"></Activity>
+        <Subject name="BADM 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="09:00 - 09:30">
+        <Activity id="335"></Activity>
+        <Subject name="BADM 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="09:30 - 10:00">
+        <Activity id="335"></Activity>
+        <Subject name="BADM 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="10:00 - 10:30">
       </Hour>
@@ -1755,58 +1755,42 @@
       <Hour name="09:00 - 09:30">
       </Hour>
       <Hour name="09:30 - 10:00">
-        <Activity id="336"></Activity>
-        <Subject name="BADM 21"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="10:00 - 10:30">
-        <Activity id="336"></Activity>
-        <Subject name="BADM 21"></Subject>
+        <Activity id="12"></Activity>
+        <Subject name="BADM 23"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 101"></Room>
+        <Room name="TMA 204"></Room>
       </Hour>
       <Hour name="10:30 - 11:00">
-        <Activity id="336"></Activity>
-        <Subject name="BADM 21"></Subject>
+        <Activity id="12"></Activity>
+        <Subject name="BADM 23"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 101"></Room>
+        <Room name="TMA 204"></Room>
       </Hour>
       <Hour name="11:00 - 11:30">
-        <Activity id="336"></Activity>
-        <Subject name="BADM 21"></Subject>
+        <Activity id="12"></Activity>
+        <Subject name="BADM 23"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 101"></Room>
+        <Room name="TMA 204"></Room>
       </Hour>
       <Hour name="11:30 - 12:00">
+        <Activity id="12"></Activity>
+        <Subject name="BADM 23"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 204"></Room>
       </Hour>
       <Hour name="12:00 - 12:30">
       </Hour>
       <Hour name="12:30 - 13:00">
       </Hour>
       <Hour name="13:00 - 13:30">
-        <Activity id="12"></Activity>
-        <Subject name="BADM 23"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="13:30 - 14:00">
-        <Activity id="12"></Activity>
-        <Subject name="BADM 23"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="14:00 - 14:30">
-        <Activity id="12"></Activity>
-        <Subject name="BADM 23"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="14:30 - 15:00">
-        <Activity id="12"></Activity>
-        <Subject name="BADM 23"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="15:00 - 15:30">
       </Hour>
@@ -1835,12 +1819,28 @@
       <Hour name="07:30 - 08:00">
       </Hour>
       <Hour name="08:00 - 08:30">
+        <Activity id="336"></Activity>
+        <Subject name="BADM 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="08:30 - 09:00">
+        <Activity id="336"></Activity>
+        <Subject name="BADM 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="09:00 - 09:30">
+        <Activity id="336"></Activity>
+        <Subject name="BADM 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="09:30 - 10:00">
+        <Activity id="336"></Activity>
+        <Subject name="BADM 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="10:00 - 10:30">
       </Hour>
@@ -2113,58 +2113,42 @@
       <Hour name="09:00 - 09:30">
       </Hour>
       <Hour name="09:30 - 10:00">
-        <Activity id="337"></Activity>
-        <Subject name="BADM 21"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 204"></Room>
       </Hour>
       <Hour name="10:00 - 10:30">
-        <Activity id="337"></Activity>
-        <Subject name="BADM 21"></Subject>
+        <Activity id="13"></Activity>
+        <Subject name="BADM 23"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 204"></Room>
+        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="10:30 - 11:00">
-        <Activity id="337"></Activity>
-        <Subject name="BADM 21"></Subject>
+        <Activity id="13"></Activity>
+        <Subject name="BADM 23"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 204"></Room>
+        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="11:00 - 11:30">
-        <Activity id="337"></Activity>
-        <Subject name="BADM 21"></Subject>
+        <Activity id="13"></Activity>
+        <Subject name="BADM 23"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 204"></Room>
+        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="11:30 - 12:00">
+        <Activity id="13"></Activity>
+        <Subject name="BADM 23"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="12:00 - 12:30">
       </Hour>
       <Hour name="12:30 - 13:00">
       </Hour>
       <Hour name="13:00 - 13:30">
-        <Activity id="13"></Activity>
-        <Subject name="BADM 23"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 204"></Room>
       </Hour>
       <Hour name="13:30 - 14:00">
-        <Activity id="13"></Activity>
-        <Subject name="BADM 23"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 204"></Room>
       </Hour>
       <Hour name="14:00 - 14:30">
-        <Activity id="13"></Activity>
-        <Subject name="BADM 23"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 204"></Room>
       </Hour>
       <Hour name="14:30 - 15:00">
-        <Activity id="13"></Activity>
-        <Subject name="BADM 23"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 204"></Room>
       </Hour>
       <Hour name="15:00 - 15:30">
       </Hour>
@@ -2193,12 +2177,28 @@
       <Hour name="07:30 - 08:00">
       </Hour>
       <Hour name="08:00 - 08:30">
+        <Activity id="337"></Activity>
+        <Subject name="BADM 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="08:30 - 09:00">
+        <Activity id="337"></Activity>
+        <Subject name="BADM 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="09:00 - 09:30">
+        <Activity id="337"></Activity>
+        <Subject name="BADM 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="09:30 - 10:00">
+        <Activity id="337"></Activity>
+        <Subject name="BADM 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="10:00 - 10:30">
       </Hour>
@@ -2471,58 +2471,42 @@
       <Hour name="09:00 - 09:30">
       </Hour>
       <Hour name="09:30 - 10:00">
-        <Activity id="338"></Activity>
-        <Subject name="BADM 21"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="10:00 - 10:30">
-        <Activity id="338"></Activity>
-        <Subject name="BADM 21"></Subject>
+        <Activity id="14"></Activity>
+        <Subject name="BADM 23"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
+        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="10:30 - 11:00">
-        <Activity id="338"></Activity>
-        <Subject name="BADM 21"></Subject>
+        <Activity id="14"></Activity>
+        <Subject name="BADM 23"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
+        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="11:00 - 11:30">
-        <Activity id="338"></Activity>
-        <Subject name="BADM 21"></Subject>
+        <Activity id="14"></Activity>
+        <Subject name="BADM 23"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
+        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="11:30 - 12:00">
+        <Activity id="14"></Activity>
+        <Subject name="BADM 23"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="12:00 - 12:30">
       </Hour>
       <Hour name="12:30 - 13:00">
       </Hour>
       <Hour name="13:00 - 13:30">
-        <Activity id="14"></Activity>
-        <Subject name="BADM 23"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="13:30 - 14:00">
-        <Activity id="14"></Activity>
-        <Subject name="BADM 23"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="14:00 - 14:30">
-        <Activity id="14"></Activity>
-        <Subject name="BADM 23"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="14:30 - 15:00">
-        <Activity id="14"></Activity>
-        <Subject name="BADM 23"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="15:00 - 15:30">
       </Hour>
@@ -2551,12 +2535,28 @@
       <Hour name="07:30 - 08:00">
       </Hour>
       <Hour name="08:00 - 08:30">
+        <Activity id="338"></Activity>
+        <Subject name="BADM 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="08:30 - 09:00">
+        <Activity id="338"></Activity>
+        <Subject name="BADM 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="09:00 - 09:30">
+        <Activity id="338"></Activity>
+        <Subject name="BADM 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="09:30 - 10:00">
+        <Activity id="338"></Activity>
+        <Subject name="BADM 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="10:00 - 10:30">
       </Hour>
@@ -2829,58 +2829,42 @@
       <Hour name="09:00 - 09:30">
       </Hour>
       <Hour name="09:30 - 10:00">
-        <Activity id="553"></Activity>
-        <Subject name="BADM 21"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 203"></Room>
       </Hour>
       <Hour name="10:00 - 10:30">
-        <Activity id="553"></Activity>
-        <Subject name="BADM 21"></Subject>
+        <Activity id="555"></Activity>
+        <Subject name="BADM 23"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
         <Room name="TMA 203"></Room>
       </Hour>
       <Hour name="10:30 - 11:00">
-        <Activity id="553"></Activity>
-        <Subject name="BADM 21"></Subject>
+        <Activity id="555"></Activity>
+        <Subject name="BADM 23"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
         <Room name="TMA 203"></Room>
       </Hour>
       <Hour name="11:00 - 11:30">
-        <Activity id="553"></Activity>
-        <Subject name="BADM 21"></Subject>
+        <Activity id="555"></Activity>
+        <Subject name="BADM 23"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
         <Room name="TMA 203"></Room>
       </Hour>
       <Hour name="11:30 - 12:00">
+        <Activity id="555"></Activity>
+        <Subject name="BADM 23"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 203"></Room>
       </Hour>
       <Hour name="12:00 - 12:30">
       </Hour>
       <Hour name="12:30 - 13:00">
       </Hour>
       <Hour name="13:00 - 13:30">
-        <Activity id="555"></Activity>
-        <Subject name="BADM 23"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 203"></Room>
       </Hour>
       <Hour name="13:30 - 14:00">
-        <Activity id="555"></Activity>
-        <Subject name="BADM 23"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 203"></Room>
       </Hour>
       <Hour name="14:00 - 14:30">
-        <Activity id="555"></Activity>
-        <Subject name="BADM 23"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 203"></Room>
       </Hour>
       <Hour name="14:30 - 15:00">
-        <Activity id="555"></Activity>
-        <Subject name="BADM 23"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 203"></Room>
       </Hour>
       <Hour name="15:00 - 15:30">
       </Hour>
@@ -2909,12 +2893,28 @@
       <Hour name="07:30 - 08:00">
       </Hour>
       <Hour name="08:00 - 08:30">
+        <Activity id="553"></Activity>
+        <Subject name="BADM 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 203"></Room>
       </Hour>
       <Hour name="08:30 - 09:00">
+        <Activity id="553"></Activity>
+        <Subject name="BADM 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 203"></Room>
       </Hour>
       <Hour name="09:00 - 09:30">
+        <Activity id="553"></Activity>
+        <Subject name="BADM 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 203"></Room>
       </Hour>
       <Hour name="09:30 - 10:00">
+        <Activity id="553"></Activity>
+        <Subject name="BADM 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 203"></Room>
       </Hour>
       <Hour name="10:00 - 10:30">
       </Hour>
@@ -3293,32 +3293,32 @@
       <Hour name="08:30 - 09:00">
       </Hour>
       <Hour name="09:00 - 09:30">
-        <Activity id="85"></Activity>
-        <Subject name="EDUC 65"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="09:30 - 10:00">
-        <Activity id="85"></Activity>
-        <Subject name="EDUC 65"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="10:00 - 10:30">
         <Activity id="85"></Activity>
         <Subject name="EDUC 65"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 201"></Room>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="10:30 - 11:00">
         <Activity id="85"></Activity>
         <Subject name="EDUC 65"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 201"></Room>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="11:00 - 11:30">
+        <Activity id="85"></Activity>
+        <Subject name="EDUC 65"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="11:30 - 12:00">
+        <Activity id="85"></Activity>
+        <Subject name="EDUC 65"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="12:00 - 12:30">
       </Hour>
@@ -3635,32 +3635,32 @@
       <Hour name="08:30 - 09:00">
       </Hour>
       <Hour name="09:00 - 09:30">
-        <Activity id="86"></Activity>
-        <Subject name="EDUC 65"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="09:30 - 10:00">
-        <Activity id="86"></Activity>
-        <Subject name="EDUC 65"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="10:00 - 10:30">
         <Activity id="86"></Activity>
         <Subject name="EDUC 65"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 202"></Room>
+        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="10:30 - 11:00">
         <Activity id="86"></Activity>
         <Subject name="EDUC 65"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 202"></Room>
+        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="11:00 - 11:30">
+        <Activity id="86"></Activity>
+        <Subject name="EDUC 65"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="11:30 - 12:00">
+        <Activity id="86"></Activity>
+        <Subject name="EDUC 65"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="12:00 - 12:30">
       </Hour>
@@ -3977,32 +3977,32 @@
       <Hour name="08:30 - 09:00">
       </Hour>
       <Hour name="09:00 - 09:30">
-        <Activity id="87"></Activity>
-        <Subject name="EDUC 65"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="09:30 - 10:00">
-        <Activity id="87"></Activity>
-        <Subject name="EDUC 65"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="10:00 - 10:30">
         <Activity id="87"></Activity>
         <Subject name="EDUC 65"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 101"></Room>
+        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="10:30 - 11:00">
         <Activity id="87"></Activity>
         <Subject name="EDUC 65"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 101"></Room>
+        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="11:00 - 11:30">
+        <Activity id="87"></Activity>
+        <Subject name="EDUC 65"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="11:30 - 12:00">
+        <Activity id="87"></Activity>
+        <Subject name="EDUC 65"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="12:00 - 12:30">
       </Hour>
@@ -4319,32 +4319,32 @@
       <Hour name="08:30 - 09:00">
       </Hour>
       <Hour name="09:00 - 09:30">
-        <Activity id="88"></Activity>
-        <Subject name="EDUC 65"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="09:30 - 10:00">
-        <Activity id="88"></Activity>
-        <Subject name="EDUC 65"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="10:00 - 10:30">
         <Activity id="88"></Activity>
         <Subject name="EDUC 65"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
+        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="10:30 - 11:00">
         <Activity id="88"></Activity>
         <Subject name="EDUC 65"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
+        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="11:00 - 11:30">
+        <Activity id="88"></Activity>
+        <Subject name="EDUC 65"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="11:30 - 12:00">
+        <Activity id="88"></Activity>
+        <Subject name="EDUC 65"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="12:00 - 12:30">
       </Hour>
@@ -4611,12 +4611,28 @@
       <Hour name="09:30 - 10:00">
       </Hour>
       <Hour name="10:00 - 10:30">
+        <Activity id="89"></Activity>
+        <Subject name="EDUC 65"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="10:30 - 11:00">
+        <Activity id="89"></Activity>
+        <Subject name="EDUC 65"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="11:00 - 11:30">
+        <Activity id="89"></Activity>
+        <Subject name="EDUC 65"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="11:30 - 12:00">
+        <Activity id="89"></Activity>
+        <Subject name="EDUC 65"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="12:00 - 12:30">
       </Hour>
@@ -4681,28 +4697,12 @@
       <Hour name="13:30 - 14:00">
       </Hour>
       <Hour name="14:00 - 14:30">
-        <Activity id="89"></Activity>
-        <Subject name="EDUC 65"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="14:30 - 15:00">
-        <Activity id="89"></Activity>
-        <Subject name="EDUC 65"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="15:00 - 15:30">
-        <Activity id="89"></Activity>
-        <Subject name="EDUC 65"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="15:30 - 16:00">
-        <Activity id="89"></Activity>
-        <Subject name="EDUC 65"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="16:00 - 16:30">
       </Hour>
@@ -4965,30 +4965,30 @@
       <Hour name="12:30 - 13:00">
       </Hour>
       <Hour name="13:00 - 13:30">
+        <Activity id="482"></Activity>
+        <Subject name="EDUC 95"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="13:30 - 14:00">
         <Activity id="482"></Activity>
         <Subject name="EDUC 95"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
+        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="14:00 - 14:30">
         <Activity id="482"></Activity>
         <Subject name="EDUC 95"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
+        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="14:30 - 15:00">
         <Activity id="482"></Activity>
         <Subject name="EDUC 95"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
+        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="15:00 - 15:30">
-        <Activity id="482"></Activity>
-        <Subject name="EDUC 95"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="15:30 - 16:00">
       </Hour>
@@ -5307,30 +5307,30 @@
       <Hour name="12:30 - 13:00">
       </Hour>
       <Hour name="13:00 - 13:30">
+        <Activity id="483"></Activity>
+        <Subject name="EDUC 95"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="13:30 - 14:00">
         <Activity id="483"></Activity>
         <Subject name="EDUC 95"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 101"></Room>
+        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="14:00 - 14:30">
         <Activity id="483"></Activity>
         <Subject name="EDUC 95"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 101"></Room>
+        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="14:30 - 15:00">
         <Activity id="483"></Activity>
         <Subject name="EDUC 95"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 101"></Room>
+        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="15:00 - 15:30">
-        <Activity id="483"></Activity>
-        <Subject name="EDUC 95"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="15:30 - 16:00">
       </Hour>
@@ -5637,28 +5637,12 @@
       <Hour name="09:30 - 10:00">
       </Hour>
       <Hour name="10:00 - 10:30">
-        <Activity id="556"></Activity>
-        <Subject name="TAXN 21"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="10:30 - 11:00">
-        <Activity id="556"></Activity>
-        <Subject name="TAXN 21"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="11:00 - 11:30">
-        <Activity id="556"></Activity>
-        <Subject name="TAXN 21"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="11:30 - 12:00">
-        <Activity id="556"></Activity>
-        <Subject name="TAXN 21"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="12:00 - 12:30">
       </Hour>
@@ -5775,12 +5759,28 @@
       <Hour name="13:00 - 13:30">
       </Hour>
       <Hour name="13:30 - 14:00">
+        <Activity id="556"></Activity>
+        <Subject name="TAXN 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="14:00 - 14:30">
+        <Activity id="556"></Activity>
+        <Subject name="TAXN 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="14:30 - 15:00">
+        <Activity id="556"></Activity>
+        <Subject name="TAXN 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="15:00 - 15:30">
+        <Activity id="556"></Activity>
+        <Subject name="TAXN 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="15:30 - 16:00">
       </Hour>
@@ -5979,28 +5979,12 @@
       <Hour name="09:30 - 10:00">
       </Hour>
       <Hour name="10:00 - 10:30">
-        <Activity id="557"></Activity>
-        <Subject name="TAXN 21"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="10:30 - 11:00">
-        <Activity id="557"></Activity>
-        <Subject name="TAXN 21"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="11:00 - 11:30">
-        <Activity id="557"></Activity>
-        <Subject name="TAXN 21"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="11:30 - 12:00">
-        <Activity id="557"></Activity>
-        <Subject name="TAXN 21"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="12:00 - 12:30">
       </Hour>
@@ -6117,12 +6101,28 @@
       <Hour name="13:00 - 13:30">
       </Hour>
       <Hour name="13:30 - 14:00">
+        <Activity id="557"></Activity>
+        <Subject name="TAXN 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="14:00 - 14:30">
+        <Activity id="557"></Activity>
+        <Subject name="TAXN 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="14:30 - 15:00">
+        <Activity id="557"></Activity>
+        <Subject name="TAXN 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="15:00 - 15:30">
+        <Activity id="557"></Activity>
+        <Subject name="TAXN 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="15:30 - 16:00">
       </Hour>
@@ -6321,28 +6321,12 @@
       <Hour name="09:30 - 10:00">
       </Hour>
       <Hour name="10:00 - 10:30">
-        <Activity id="558"></Activity>
-        <Subject name="TAXN 21"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="10:30 - 11:00">
-        <Activity id="558"></Activity>
-        <Subject name="TAXN 21"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="11:00 - 11:30">
-        <Activity id="558"></Activity>
-        <Subject name="TAXN 21"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="11:30 - 12:00">
-        <Activity id="558"></Activity>
-        <Subject name="TAXN 21"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="12:00 - 12:30">
       </Hour>
@@ -6459,12 +6443,28 @@
       <Hour name="13:00 - 13:30">
       </Hour>
       <Hour name="13:30 - 14:00">
+        <Activity id="558"></Activity>
+        <Subject name="TAXN 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="14:00 - 14:30">
+        <Activity id="558"></Activity>
+        <Subject name="TAXN 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="14:30 - 15:00">
+        <Activity id="558"></Activity>
+        <Subject name="TAXN 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="15:00 - 15:30">
+        <Activity id="558"></Activity>
+        <Subject name="TAXN 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="15:30 - 16:00">
       </Hour>
@@ -6663,28 +6663,12 @@
       <Hour name="09:30 - 10:00">
       </Hour>
       <Hour name="10:00 - 10:30">
-        <Activity id="559"></Activity>
-        <Subject name="TAXN 21"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 203"></Room>
       </Hour>
       <Hour name="10:30 - 11:00">
-        <Activity id="559"></Activity>
-        <Subject name="TAXN 21"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 203"></Room>
       </Hour>
       <Hour name="11:00 - 11:30">
-        <Activity id="559"></Activity>
-        <Subject name="TAXN 21"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 203"></Room>
       </Hour>
       <Hour name="11:30 - 12:00">
-        <Activity id="559"></Activity>
-        <Subject name="TAXN 21"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 203"></Room>
       </Hour>
       <Hour name="12:00 - 12:30">
       </Hour>
@@ -6801,12 +6785,28 @@
       <Hour name="13:00 - 13:30">
       </Hour>
       <Hour name="13:30 - 14:00">
+        <Activity id="559"></Activity>
+        <Subject name="TAXN 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 203"></Room>
       </Hour>
       <Hour name="14:00 - 14:30">
+        <Activity id="559"></Activity>
+        <Subject name="TAXN 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 203"></Room>
       </Hour>
       <Hour name="14:30 - 15:00">
+        <Activity id="559"></Activity>
+        <Subject name="TAXN 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 203"></Room>
       </Hour>
       <Hour name="15:00 - 15:30">
+        <Activity id="559"></Activity>
+        <Subject name="TAXN 21"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 203"></Room>
       </Hour>
       <Hour name="15:30 - 16:00">
       </Hour>
@@ -7017,30 +7017,30 @@
       <Hour name="12:30 - 13:00">
       </Hour>
       <Hour name="13:00 - 13:30">
+        <Activity id="480"></Activity>
+        <Subject name="EDUC 95"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 204"></Room>
       </Hour>
       <Hour name="13:30 - 14:00">
         <Activity id="480"></Activity>
         <Subject name="EDUC 95"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 202"></Room>
+        <Room name="TMA 204"></Room>
       </Hour>
       <Hour name="14:00 - 14:30">
         <Activity id="480"></Activity>
         <Subject name="EDUC 95"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 202"></Room>
+        <Room name="TMA 204"></Room>
       </Hour>
       <Hour name="14:30 - 15:00">
         <Activity id="480"></Activity>
         <Subject name="EDUC 95"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 202"></Room>
+        <Room name="TMA 204"></Room>
       </Hour>
       <Hour name="15:00 - 15:30">
-        <Activity id="480"></Activity>
-        <Subject name="EDUC 95"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="15:30 - 16:00">
       </Hour>
@@ -7359,30 +7359,30 @@
       <Hour name="12:30 - 13:00">
       </Hour>
       <Hour name="13:00 - 13:30">
+        <Activity id="481"></Activity>
+        <Subject name="EDUC 95"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="13:30 - 14:00">
         <Activity id="481"></Activity>
         <Subject name="EDUC 95"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 201"></Room>
+        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="14:00 - 14:30">
         <Activity id="481"></Activity>
         <Subject name="EDUC 95"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 201"></Room>
+        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="14:30 - 15:00">
         <Activity id="481"></Activity>
         <Subject name="EDUC 95"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 201"></Room>
+        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="15:00 - 15:30">
-        <Activity id="481"></Activity>
-        <Subject name="EDUC 95"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="15:30 - 16:00">
       </Hour>
@@ -7701,30 +7701,30 @@
       <Hour name="12:30 - 13:00">
       </Hour>
       <Hour name="13:00 - 13:30">
+        <Activity id="484"></Activity>
+        <Subject name="EDUC 95"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="13:30 - 14:00">
         <Activity id="484"></Activity>
         <Subject name="EDUC 95"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 204"></Room>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="14:00 - 14:30">
         <Activity id="484"></Activity>
         <Subject name="EDUC 95"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 204"></Room>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="14:30 - 15:00">
         <Activity id="484"></Activity>
         <Subject name="EDUC 95"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 204"></Room>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="15:00 - 15:30">
-        <Activity id="484"></Activity>
-        <Subject name="EDUC 95"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 204"></Room>
       </Hour>
       <Hour name="15:30 - 16:00">
       </Hour>
@@ -7859,42 +7859,34 @@
       <Hour name="07:30 - 08:00">
       </Hour>
       <Hour name="08:00 - 08:30">
+        <Activity id="80"></Activity>
+        <Subject name="BSEM 36"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="08:30 - 09:00">
-        <Activity id="404"></Activity>
-        <Subject name="BSEM 33"></Subject>
+        <Activity id="80"></Activity>
+        <Subject name="BSEM 36"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="09:00 - 09:30">
-        <Activity id="404"></Activity>
-        <Subject name="BSEM 33"></Subject>
+        <Activity id="80"></Activity>
+        <Subject name="BSEM 36"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="09:30 - 10:00">
-        <Activity id="404"></Activity>
-        <Subject name="BSEM 33"></Subject>
+        <Activity id="80"></Activity>
+        <Subject name="BSEM 36"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="10:00 - 10:30">
-        <Activity id="404"></Activity>
-        <Subject name="BSEM 33"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="10:30 - 11:00">
-        <Activity id="404"></Activity>
-        <Subject name="BSEM 33"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="11:00 - 11:30">
-        <Activity id="404"></Activity>
-        <Subject name="BSEM 33"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="11:30 - 12:00">
       </Hour>
@@ -7903,32 +7895,40 @@
       <Hour name="12:30 - 13:00">
       </Hour>
       <Hour name="13:00 - 13:30">
+        <Activity id="404"></Activity>
+        <Subject name="BSEM 33"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="13:30 - 14:00">
+        <Activity id="404"></Activity>
+        <Subject name="BSEM 33"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="14:00 - 14:30">
-        <Activity id="80"></Activity>
-        <Subject name="BSEM 36"></Subject>
+        <Activity id="404"></Activity>
+        <Subject name="BSEM 33"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="14:30 - 15:00">
-        <Activity id="80"></Activity>
-        <Subject name="BSEM 36"></Subject>
+        <Activity id="404"></Activity>
+        <Subject name="BSEM 33"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="15:00 - 15:30">
-        <Activity id="80"></Activity>
-        <Subject name="BSEM 36"></Subject>
+        <Activity id="404"></Activity>
+        <Subject name="BSEM 33"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="15:30 - 16:00">
-        <Activity id="80"></Activity>
-        <Subject name="BSEM 36"></Subject>
+        <Activity id="404"></Activity>
+        <Subject name="BSEM 33"></Subject>
         <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 102"></Room>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="16:00 - 16:30">
       </Hour>
@@ -8009,12 +8009,28 @@
       <Hour name="07:30 - 08:00">
       </Hour>
       <Hour name="08:00 - 08:30">
+        <Activity id="48"></Activity>
+        <Subject name="EDUC 197"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="08:30 - 09:00">
+        <Activity id="48"></Activity>
+        <Subject name="EDUC 197"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="09:00 - 09:30">
+        <Activity id="48"></Activity>
+        <Subject name="EDUC 197"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="09:30 - 10:00">
+        <Activity id="48"></Activity>
+        <Subject name="EDUC 197"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="10:00 - 10:30">
       </Hour>
@@ -8063,28 +8079,12 @@
       <Hour name="07:30 - 08:00">
       </Hour>
       <Hour name="08:00 - 08:30">
-        <Activity id="48"></Activity>
-        <Subject name="EDUC 197"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 203"></Room>
       </Hour>
       <Hour name="08:30 - 09:00">
-        <Activity id="48"></Activity>
-        <Subject name="EDUC 197"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 203"></Room>
       </Hour>
       <Hour name="09:00 - 09:30">
-        <Activity id="48"></Activity>
-        <Subject name="EDUC 197"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 203"></Room>
       </Hour>
       <Hour name="09:30 - 10:00">
-        <Activity id="48"></Activity>
-        <Subject name="EDUC 197"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 203"></Room>
       </Hour>
       <Hour name="10:00 - 10:30">
       </Hour>
@@ -9035,12 +9035,28 @@
       <Hour name="07:30 - 08:00">
       </Hour>
       <Hour name="08:00 - 08:30">
+        <Activity id="49"></Activity>
+        <Subject name="EDUC 197"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="08:30 - 09:00">
+        <Activity id="49"></Activity>
+        <Subject name="EDUC 197"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="09:00 - 09:30">
+        <Activity id="49"></Activity>
+        <Subject name="EDUC 197"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="09:30 - 10:00">
+        <Activity id="49"></Activity>
+        <Subject name="EDUC 197"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 102"></Room>
       </Hour>
       <Hour name="10:00 - 10:30">
       </Hour>
@@ -9089,28 +9105,12 @@
       <Hour name="07:30 - 08:00">
       </Hour>
       <Hour name="08:00 - 08:30">
-        <Activity id="49"></Activity>
-        <Subject name="EDUC 197"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="08:30 - 09:00">
-        <Activity id="49"></Activity>
-        <Subject name="EDUC 197"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="09:00 - 09:30">
-        <Activity id="49"></Activity>
-        <Subject name="EDUC 197"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="09:30 - 10:00">
-        <Activity id="49"></Activity>
-        <Subject name="EDUC 197"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 201"></Room>
       </Hour>
       <Hour name="10:00 - 10:30">
       </Hour>
@@ -9377,12 +9377,28 @@
       <Hour name="07:30 - 08:00">
       </Hour>
       <Hour name="08:00 - 08:30">
+        <Activity id="50"></Activity>
+        <Subject name="EDUC 197"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="08:30 - 09:00">
+        <Activity id="50"></Activity>
+        <Subject name="EDUC 197"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="09:00 - 09:30">
+        <Activity id="50"></Activity>
+        <Subject name="EDUC 197"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="09:30 - 10:00">
+        <Activity id="50"></Activity>
+        <Subject name="EDUC 197"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="10:00 - 10:30">
       </Hour>
@@ -9397,16 +9413,40 @@
       <Hour name="12:30 - 13:00">
       </Hour>
       <Hour name="13:00 - 13:30">
+        <Activity id="406"></Activity>
+        <Subject name="BSEM 37"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="13:30 - 14:00">
+        <Activity id="406"></Activity>
+        <Subject name="BSEM 37"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="14:00 - 14:30">
+        <Activity id="406"></Activity>
+        <Subject name="BSEM 37"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="14:30 - 15:00">
+        <Activity id="406"></Activity>
+        <Subject name="BSEM 37"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="15:00 - 15:30">
+        <Activity id="406"></Activity>
+        <Subject name="BSEM 37"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="15:30 - 16:00">
+        <Activity id="406"></Activity>
+        <Subject name="BSEM 37"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="16:00 - 16:30">
       </Hour>
@@ -9431,28 +9471,12 @@
       <Hour name="07:30 - 08:00">
       </Hour>
       <Hour name="08:00 - 08:30">
-        <Activity id="50"></Activity>
-        <Subject name="EDUC 197"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="08:30 - 09:00">
-        <Activity id="50"></Activity>
-        <Subject name="EDUC 197"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="09:00 - 09:30">
-        <Activity id="50"></Activity>
-        <Subject name="EDUC 197"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="09:30 - 10:00">
-        <Activity id="50"></Activity>
-        <Subject name="EDUC 197"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 202"></Room>
       </Hour>
       <Hour name="10:00 - 10:30">
       </Hour>
@@ -9613,16 +9637,8 @@
       <Hour name="08:30 - 09:00">
       </Hour>
       <Hour name="09:00 - 09:30">
-        <Activity id="7"></Activity>
-        <Subject name="BSEM 31"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="09:30 - 10:00">
-        <Activity id="7"></Activity>
-        <Subject name="BSEM 31"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="10:00 - 10:30">
         <Activity id="7"></Activity>
@@ -9637,48 +9653,32 @@
         <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="11:00 - 11:30">
+        <Activity id="7"></Activity>
+        <Subject name="BSEM 31"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="11:30 - 12:00">
+        <Activity id="7"></Activity>
+        <Subject name="BSEM 31"></Subject>
+        <Activity_Tag name="Lecture"></Activity_Tag>
+        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="12:00 - 12:30">
       </Hour>
       <Hour name="12:30 - 13:00">
       </Hour>
       <Hour name="13:00 - 13:30">
-        <Activity id="406"></Activity>
-        <Subject name="BSEM 37"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="13:30 - 14:00">
-        <Activity id="406"></Activity>
-        <Subject name="BSEM 37"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="14:00 - 14:30">
-        <Activity id="406"></Activity>
-        <Subject name="BSEM 37"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="14:30 - 15:00">
-        <Activity id="406"></Activity>
-        <Subject name="BSEM 37"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="15:00 - 15:30">
-        <Activity id="406"></Activity>
-        <Subject name="BSEM 37"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="15:30 - 16:00">
-        <Activity id="406"></Activity>
-        <Subject name="BSEM 37"></Subject>
-        <Activity_Tag name="Lecture"></Activity_Tag>
-        <Room name="TMA 101"></Room>
       </Hour>
       <Hour name="16:00 - 16:30">
       </Hour>

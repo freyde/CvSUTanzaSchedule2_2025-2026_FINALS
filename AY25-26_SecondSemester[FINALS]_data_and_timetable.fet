@@ -4104,11 +4104,2119 @@
       <Active>true</Active>
       <Comments></Comments>
     </ConstraintStudentsMaxDaysPerWeek>
+    <ConstraintStudentsSetNotAvailableTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Students>BSBA2-1</Students>
+      <Number_of_Not_Available_Times>130</Number_of_Not_Available_Times>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>07:00 - 07:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>07:30 - 08:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>08:00 - 08:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>08:30 - 09:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>09:00 - 09:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>09:30 - 10:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>10:00 - 10:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>10:30 - 11:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>11:00 - 11:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>11:30 - 12:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>12:00 - 12:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>12:30 - 13:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>13:00 - 13:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>13:30 - 14:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>14:00 - 14:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>14:30 - 15:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>15:00 - 15:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>15:30 - 16:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>16:00 - 16:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>16:30 - 17:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>17:00 - 17:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>17:30 - 18:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>18:00 - 18:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>18:30 - 19:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>19:00 - 19:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>19:30 - 20:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>07:00 - 07:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>07:30 - 08:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>08:00 - 08:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>08:30 - 09:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>09:00 - 09:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>09:30 - 10:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>10:00 - 10:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>10:30 - 11:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>11:00 - 11:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>11:30 - 12:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>12:00 - 12:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>12:30 - 13:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>13:00 - 13:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>13:30 - 14:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>14:00 - 14:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>14:30 - 15:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>15:00 - 15:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>15:30 - 16:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>16:00 - 16:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>16:30 - 17:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>17:00 - 17:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>17:30 - 18:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>18:00 - 18:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>18:30 - 19:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>19:00 - 19:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>19:30 - 20:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>07:00 - 07:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>07:30 - 08:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>08:00 - 08:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>08:30 - 09:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>09:00 - 09:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>09:30 - 10:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>10:00 - 10:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>10:30 - 11:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>11:00 - 11:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>11:30 - 12:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>12:00 - 12:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>12:30 - 13:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>13:00 - 13:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>13:30 - 14:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>14:00 - 14:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>14:30 - 15:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>15:00 - 15:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>15:30 - 16:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>16:00 - 16:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>16:30 - 17:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>17:00 - 17:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>17:30 - 18:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>18:00 - 18:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>18:30 - 19:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>19:00 - 19:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>19:30 - 20:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>07:00 - 07:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>07:30 - 08:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>08:00 - 08:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>08:30 - 09:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>09:00 - 09:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>09:30 - 10:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>10:00 - 10:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>10:30 - 11:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>11:00 - 11:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>11:30 - 12:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>12:00 - 12:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>12:30 - 13:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>13:00 - 13:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>13:30 - 14:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>14:00 - 14:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>14:30 - 15:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>15:00 - 15:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>15:30 - 16:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>16:00 - 16:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>16:30 - 17:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>17:00 - 17:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>17:30 - 18:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>18:00 - 18:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>18:30 - 19:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>19:00 - 19:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>19:30 - 20:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>07:00 - 07:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>07:30 - 08:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>08:00 - 08:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>08:30 - 09:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>09:00 - 09:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>09:30 - 10:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>10:00 - 10:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>10:30 - 11:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>11:00 - 11:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>11:30 - 12:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>12:00 - 12:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>12:30 - 13:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>13:00 - 13:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>13:30 - 14:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>14:00 - 14:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>14:30 - 15:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>15:00 - 15:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>15:30 - 16:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>16:00 - 16:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>16:30 - 17:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>17:00 - 17:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>17:30 - 18:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>18:00 - 18:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>18:30 - 19:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>19:00 - 19:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>19:30 - 20:00</Hour>
+      </Not_Available_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintStudentsSetNotAvailableTimes>
+    <ConstraintStudentsSetNotAvailableTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Students>BSBA2-2</Students>
+      <Number_of_Not_Available_Times>130</Number_of_Not_Available_Times>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>07:00 - 07:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>07:30 - 08:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>08:00 - 08:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>08:30 - 09:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>09:00 - 09:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>09:30 - 10:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>10:00 - 10:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>10:30 - 11:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>11:00 - 11:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>11:30 - 12:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>12:00 - 12:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>12:30 - 13:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>13:00 - 13:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>13:30 - 14:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>14:00 - 14:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>14:30 - 15:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>15:00 - 15:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>15:30 - 16:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>16:00 - 16:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>16:30 - 17:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>17:00 - 17:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>17:30 - 18:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>18:00 - 18:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>18:30 - 19:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>19:00 - 19:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>19:30 - 20:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>07:00 - 07:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>07:30 - 08:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>08:00 - 08:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>08:30 - 09:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>09:00 - 09:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>09:30 - 10:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>10:00 - 10:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>10:30 - 11:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>11:00 - 11:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>11:30 - 12:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>12:00 - 12:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>12:30 - 13:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>13:00 - 13:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>13:30 - 14:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>14:00 - 14:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>14:30 - 15:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>15:00 - 15:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>15:30 - 16:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>16:00 - 16:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>16:30 - 17:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>17:00 - 17:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>17:30 - 18:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>18:00 - 18:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>18:30 - 19:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>19:00 - 19:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>19:30 - 20:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>07:00 - 07:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>07:30 - 08:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>08:00 - 08:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>08:30 - 09:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>09:00 - 09:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>09:30 - 10:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>10:00 - 10:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>10:30 - 11:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>11:00 - 11:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>11:30 - 12:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>12:00 - 12:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>12:30 - 13:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>13:00 - 13:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>13:30 - 14:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>14:00 - 14:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>14:30 - 15:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>15:00 - 15:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>15:30 - 16:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>16:00 - 16:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>16:30 - 17:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>17:00 - 17:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>17:30 - 18:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>18:00 - 18:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>18:30 - 19:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>19:00 - 19:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>19:30 - 20:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>07:00 - 07:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>07:30 - 08:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>08:00 - 08:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>08:30 - 09:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>09:00 - 09:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>09:30 - 10:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>10:00 - 10:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>10:30 - 11:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>11:00 - 11:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>11:30 - 12:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>12:00 - 12:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>12:30 - 13:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>13:00 - 13:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>13:30 - 14:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>14:00 - 14:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>14:30 - 15:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>15:00 - 15:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>15:30 - 16:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>16:00 - 16:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>16:30 - 17:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>17:00 - 17:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>17:30 - 18:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>18:00 - 18:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>18:30 - 19:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>19:00 - 19:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>19:30 - 20:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>07:00 - 07:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>07:30 - 08:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>08:00 - 08:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>08:30 - 09:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>09:00 - 09:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>09:30 - 10:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>10:00 - 10:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>10:30 - 11:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>11:00 - 11:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>11:30 - 12:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>12:00 - 12:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>12:30 - 13:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>13:00 - 13:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>13:30 - 14:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>14:00 - 14:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>14:30 - 15:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>15:00 - 15:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>15:30 - 16:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>16:00 - 16:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>16:30 - 17:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>17:00 - 17:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>17:30 - 18:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>18:00 - 18:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>18:30 - 19:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>19:00 - 19:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>19:30 - 20:00</Hour>
+      </Not_Available_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintStudentsSetNotAvailableTimes>
+    <ConstraintStudentsSetNotAvailableTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Students>BSBA2-3</Students>
+      <Number_of_Not_Available_Times>130</Number_of_Not_Available_Times>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>07:00 - 07:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>07:30 - 08:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>08:00 - 08:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>08:30 - 09:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>09:00 - 09:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>09:30 - 10:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>10:00 - 10:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>10:30 - 11:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>11:00 - 11:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>11:30 - 12:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>12:00 - 12:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>12:30 - 13:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>13:00 - 13:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>13:30 - 14:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>14:00 - 14:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>14:30 - 15:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>15:00 - 15:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>15:30 - 16:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>16:00 - 16:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>16:30 - 17:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>17:00 - 17:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>17:30 - 18:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>18:00 - 18:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>18:30 - 19:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>19:00 - 19:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>19:30 - 20:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>07:00 - 07:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>07:30 - 08:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>08:00 - 08:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>08:30 - 09:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>09:00 - 09:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>09:30 - 10:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>10:00 - 10:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>10:30 - 11:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>11:00 - 11:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>11:30 - 12:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>12:00 - 12:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>12:30 - 13:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>13:00 - 13:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>13:30 - 14:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>14:00 - 14:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>14:30 - 15:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>15:00 - 15:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>15:30 - 16:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>16:00 - 16:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>16:30 - 17:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>17:00 - 17:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>17:30 - 18:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>18:00 - 18:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>18:30 - 19:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>19:00 - 19:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>19:30 - 20:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>07:00 - 07:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>07:30 - 08:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>08:00 - 08:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>08:30 - 09:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>09:00 - 09:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>09:30 - 10:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>10:00 - 10:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>10:30 - 11:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>11:00 - 11:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>11:30 - 12:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>12:00 - 12:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>12:30 - 13:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>13:00 - 13:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>13:30 - 14:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>14:00 - 14:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>14:30 - 15:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>15:00 - 15:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>15:30 - 16:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>16:00 - 16:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>16:30 - 17:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>17:00 - 17:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>17:30 - 18:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>18:00 - 18:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>18:30 - 19:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>19:00 - 19:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>19:30 - 20:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>07:00 - 07:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>07:30 - 08:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>08:00 - 08:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>08:30 - 09:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>09:00 - 09:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>09:30 - 10:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>10:00 - 10:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>10:30 - 11:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>11:00 - 11:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>11:30 - 12:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>12:00 - 12:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>12:30 - 13:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>13:00 - 13:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>13:30 - 14:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>14:00 - 14:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>14:30 - 15:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>15:00 - 15:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>15:30 - 16:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>16:00 - 16:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>16:30 - 17:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>17:00 - 17:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>17:30 - 18:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>18:00 - 18:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>18:30 - 19:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>19:00 - 19:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>19:30 - 20:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>07:00 - 07:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>07:30 - 08:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>08:00 - 08:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>08:30 - 09:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>09:00 - 09:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>09:30 - 10:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>10:00 - 10:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>10:30 - 11:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>11:00 - 11:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>11:30 - 12:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>12:00 - 12:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>12:30 - 13:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>13:00 - 13:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>13:30 - 14:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>14:00 - 14:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>14:30 - 15:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>15:00 - 15:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>15:30 - 16:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>16:00 - 16:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>16:30 - 17:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>17:00 - 17:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>17:30 - 18:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>18:00 - 18:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>18:30 - 19:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>19:00 - 19:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>19:30 - 20:00</Hour>
+      </Not_Available_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintStudentsSetNotAvailableTimes>
+    <ConstraintStudentsSetNotAvailableTimes>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Students>BSBA2-4</Students>
+      <Number_of_Not_Available_Times>130</Number_of_Not_Available_Times>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>07:00 - 07:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>07:30 - 08:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>08:00 - 08:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>08:30 - 09:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>09:00 - 09:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>09:30 - 10:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>10:00 - 10:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>10:30 - 11:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>11:00 - 11:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>11:30 - 12:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>12:00 - 12:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>12:30 - 13:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>13:00 - 13:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>13:30 - 14:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>14:00 - 14:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>14:30 - 15:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>15:00 - 15:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>15:30 - 16:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>16:00 - 16:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>16:30 - 17:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>17:00 - 17:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>17:30 - 18:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>18:00 - 18:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>18:30 - 19:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>19:00 - 19:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>19:30 - 20:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>07:00 - 07:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>07:30 - 08:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>08:00 - 08:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>08:30 - 09:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>09:00 - 09:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>09:30 - 10:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>10:00 - 10:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>10:30 - 11:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>11:00 - 11:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>11:30 - 12:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>12:00 - 12:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>12:30 - 13:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>13:00 - 13:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>13:30 - 14:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>14:00 - 14:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>14:30 - 15:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>15:00 - 15:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>15:30 - 16:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>16:00 - 16:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>16:30 - 17:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>17:00 - 17:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>17:30 - 18:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>18:00 - 18:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>18:30 - 19:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>19:00 - 19:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
+        <Hour>19:30 - 20:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>07:00 - 07:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>07:30 - 08:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>08:00 - 08:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>08:30 - 09:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>09:00 - 09:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>09:30 - 10:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>10:00 - 10:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>10:30 - 11:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>11:00 - 11:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>11:30 - 12:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>12:00 - 12:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>12:30 - 13:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>13:00 - 13:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>13:30 - 14:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>14:00 - 14:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>14:30 - 15:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>15:00 - 15:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>15:30 - 16:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>16:00 - 16:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>16:30 - 17:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>17:00 - 17:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>17:30 - 18:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>18:00 - 18:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>18:30 - 19:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>19:00 - 19:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
+        <Hour>19:30 - 20:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>07:00 - 07:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>07:30 - 08:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>08:00 - 08:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>08:30 - 09:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>09:00 - 09:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>09:30 - 10:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>10:00 - 10:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>10:30 - 11:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>11:00 - 11:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>11:30 - 12:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>12:00 - 12:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>12:30 - 13:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>13:00 - 13:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>13:30 - 14:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>14:00 - 14:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>14:30 - 15:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>15:00 - 15:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>15:30 - 16:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>16:00 - 16:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>16:30 - 17:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>17:00 - 17:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>17:30 - 18:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>18:00 - 18:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>18:30 - 19:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>19:00 - 19:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>19:30 - 20:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>07:00 - 07:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>07:30 - 08:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>08:00 - 08:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>08:30 - 09:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>09:00 - 09:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>09:30 - 10:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>10:00 - 10:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>10:30 - 11:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>11:00 - 11:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>11:30 - 12:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>12:00 - 12:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>12:30 - 13:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>13:00 - 13:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>13:30 - 14:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>14:00 - 14:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>14:30 - 15:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>15:00 - 15:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>15:30 - 16:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>16:00 - 16:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>16:30 - 17:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>17:00 - 17:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>17:30 - 18:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>18:00 - 18:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>18:30 - 19:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>19:00 - 19:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Sat</Day>
+        <Hour>19:30 - 20:00</Hour>
+      </Not_Available_Time>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintStudentsSetNotAvailableTimes>
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>7</Activity_Id>
       <Day>Fri</Day>
-      <Hour>09:00 - 09:30</Hour>
+      <Hour>10:00 - 10:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4117,7 +6225,7 @@
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>10</Activity_Id>
       <Day>Mon</Day>
-      <Hour>13:00 - 13:30</Hour>
+      <Hour>10:00 - 10:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4126,7 +6234,7 @@
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>11</Activity_Id>
       <Day>Mon</Day>
-      <Hour>13:00 - 13:30</Hour>
+      <Hour>10:00 - 10:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4135,7 +6243,7 @@
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>12</Activity_Id>
       <Day>Mon</Day>
-      <Hour>13:00 - 13:30</Hour>
+      <Hour>10:00 - 10:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4144,7 +6252,7 @@
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>13</Activity_Id>
       <Day>Mon</Day>
-      <Hour>13:00 - 13:30</Hour>
+      <Hour>10:00 - 10:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4153,7 +6261,7 @@
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>14</Activity_Id>
       <Day>Mon</Day>
-      <Hour>13:00 - 13:30</Hour>
+      <Hour>10:00 - 10:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4161,7 +6269,7 @@
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>48</Activity_Id>
-      <Day>Tue</Day>
+      <Day>Mon</Day>
       <Hour>08:00 - 08:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -4170,7 +6278,7 @@
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>49</Activity_Id>
-      <Day>Tue</Day>
+      <Day>Mon</Day>
       <Hour>08:00 - 08:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -4179,7 +6287,7 @@
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>50</Activity_Id>
-      <Day>Tue</Day>
+      <Day>Mon</Day>
       <Hour>08:00 - 08:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -4189,7 +6297,7 @@
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>80</Activity_Id>
       <Day>Fri</Day>
-      <Hour>14:00 - 14:30</Hour>
+      <Hour>08:00 - 08:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4197,8 +6305,8 @@
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>82</Activity_Id>
-      <Day>Wed</Day>
-      <Hour>14:00 - 14:30</Hour>
+      <Day>Tue</Day>
+      <Hour>10:00 - 10:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4206,8 +6314,8 @@
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>83</Activity_Id>
-      <Day>Wed</Day>
-      <Hour>14:00 - 14:30</Hour>
+      <Day>Tue</Day>
+      <Hour>10:00 - 10:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4215,8 +6323,8 @@
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>84</Activity_Id>
-      <Day>Wed</Day>
-      <Hour>14:00 - 14:30</Hour>
+      <Day>Tue</Day>
+      <Hour>10:00 - 10:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4225,7 +6333,7 @@
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>85</Activity_Id>
       <Day>Wed</Day>
-      <Hour>09:00 - 09:30</Hour>
+      <Hour>10:00 - 10:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4234,7 +6342,7 @@
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>86</Activity_Id>
       <Day>Wed</Day>
-      <Hour>09:00 - 09:30</Hour>
+      <Hour>10:00 - 10:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4243,7 +6351,7 @@
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>87</Activity_Id>
       <Day>Wed</Day>
-      <Hour>09:00 - 09:30</Hour>
+      <Hour>10:00 - 10:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4252,7 +6360,7 @@
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>88</Activity_Id>
       <Day>Wed</Day>
-      <Hour>09:00 - 09:30</Hour>
+      <Hour>10:00 - 10:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4260,8 +6368,8 @@
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>89</Activity_Id>
-      <Day>Wed</Day>
-      <Hour>14:00 - 14:30</Hour>
+      <Day>Tue</Day>
+      <Hour>10:00 - 10:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4269,8 +6377,8 @@
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>334</Activity_Id>
-      <Day>Mon</Day>
-      <Hour>09:30 - 10:00</Hour>
+      <Day>Tue</Day>
+      <Hour>08:00 - 08:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4278,8 +6386,8 @@
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>335</Activity_Id>
-      <Day>Mon</Day>
-      <Hour>09:30 - 10:00</Hour>
+      <Day>Tue</Day>
+      <Hour>08:00 - 08:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4287,8 +6395,8 @@
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>336</Activity_Id>
-      <Day>Mon</Day>
-      <Hour>09:30 - 10:00</Hour>
+      <Day>Tue</Day>
+      <Hour>08:00 - 08:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4296,8 +6404,8 @@
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>337</Activity_Id>
-      <Day>Mon</Day>
-      <Hour>09:30 - 10:00</Hour>
+      <Day>Tue</Day>
+      <Hour>08:00 - 08:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4305,8 +6413,8 @@
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>338</Activity_Id>
-      <Day>Mon</Day>
-      <Hour>09:30 - 10:00</Hour>
+      <Day>Tue</Day>
+      <Hour>08:00 - 08:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4315,7 +6423,7 @@
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>404</Activity_Id>
       <Day>Fri</Day>
-      <Hour>08:30 - 09:00</Hour>
+      <Hour>13:00 - 13:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4323,7 +6431,7 @@
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>406</Activity_Id>
-      <Day>Fri</Day>
+      <Day>Mon</Day>
       <Hour>13:00 - 13:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -4333,7 +6441,7 @@
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>480</Activity_Id>
       <Day>Tue</Day>
-      <Hour>13:30 - 14:00</Hour>
+      <Hour>13:00 - 13:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4342,7 +6450,7 @@
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>481</Activity_Id>
       <Day>Tue</Day>
-      <Hour>13:30 - 14:00</Hour>
+      <Hour>13:00 - 13:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4351,7 +6459,7 @@
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>482</Activity_Id>
       <Day>Tue</Day>
-      <Hour>13:30 - 14:00</Hour>
+      <Hour>13:00 - 13:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4360,7 +6468,7 @@
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>483</Activity_Id>
       <Day>Tue</Day>
-      <Hour>13:30 - 14:00</Hour>
+      <Hour>13:00 - 13:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4369,7 +6477,7 @@
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>484</Activity_Id>
       <Day>Tue</Day>
-      <Hour>13:30 - 14:00</Hour>
+      <Hour>13:00 - 13:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4377,8 +6485,8 @@
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>553</Activity_Id>
-      <Day>Mon</Day>
-      <Hour>09:30 - 10:00</Hour>
+      <Day>Tue</Day>
+      <Hour>08:00 - 08:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4387,7 +6495,7 @@
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>555</Activity_Id>
       <Day>Mon</Day>
-      <Hour>13:00 - 13:30</Hour>
+      <Hour>10:00 - 10:30</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4395,8 +6503,8 @@
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>556</Activity_Id>
-      <Day>Tue</Day>
-      <Hour>10:00 - 10:30</Hour>
+      <Day>Thu</Day>
+      <Hour>13:30 - 14:00</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4404,8 +6512,8 @@
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>557</Activity_Id>
-      <Day>Tue</Day>
-      <Hour>10:00 - 10:30</Hour>
+      <Day>Thu</Day>
+      <Hour>13:30 - 14:00</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4413,8 +6521,8 @@
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>558</Activity_Id>
-      <Day>Tue</Day>
-      <Hour>10:00 - 10:30</Hour>
+      <Day>Thu</Day>
+      <Hour>13:30 - 14:00</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -4422,8 +6530,8 @@
     <ConstraintActivityPreferredStartingTime>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>559</Activity_Id>
-      <Day>Tue</Day>
-      <Hour>10:00 - 10:30</Hour>
+      <Day>Thu</Day>
+      <Hour>13:30 - 14:00</Hour>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -5264,7 +7372,7 @@
     <ConstraintRoomNotAvailableTimes>
       <Weight_Percentage>100</Weight_Percentage>
       <Room>TMA 101</Room>
-      <Number_of_Not_Available_Times>81</Number_of_Not_Available_Times>
+      <Number_of_Not_Available_Times>86</Number_of_Not_Available_Times>
       <Not_Available_Time>
         <Day>Mon</Day>
         <Hour>07:00 - 07:30</Hour>
@@ -5300,6 +7408,10 @@
       <Not_Available_Time>
         <Day>Mon</Day>
         <Hour>18:00 - 18:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Mon</Day>
+        <Hour>18:30 - 19:00</Hour>
       </Not_Available_Time>
       <Not_Available_Time>
         <Day>Mon</Day>
@@ -5347,6 +7459,10 @@
       </Not_Available_Time>
       <Not_Available_Time>
         <Day>Tue</Day>
+        <Hour>18:30 - 19:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Tue</Day>
         <Hour>19:00 - 19:30</Hour>
       </Not_Available_Time>
       <Not_Available_Time>
@@ -5391,6 +7507,10 @@
       </Not_Available_Time>
       <Not_Available_Time>
         <Day>Wed</Day>
+        <Hour>18:30 - 19:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Wed</Day>
         <Hour>19:00 - 19:30</Hour>
       </Not_Available_Time>
       <Not_Available_Time>
@@ -5435,6 +7555,10 @@
       </Not_Available_Time>
       <Not_Available_Time>
         <Day>Thu</Day>
+        <Hour>18:30 - 19:00</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Thu</Day>
         <Hour>19:00 - 19:30</Hour>
       </Not_Available_Time>
       <Not_Available_Time>
@@ -5476,6 +7600,10 @@
       <Not_Available_Time>
         <Day>Fri</Day>
         <Hour>18:00 - 18:30</Hour>
+      </Not_Available_Time>
+      <Not_Available_Time>
+        <Day>Fri</Day>
+        <Hour>18:30 - 19:00</Hour>
       </Not_Available_Time>
       <Not_Available_Time>
         <Day>Fri</Day>
@@ -6353,7 +8481,7 @@
     <ConstraintRoomNotAvailableTimes>
       <Weight_Percentage>100</Weight_Percentage>
       <Room>TMA 203</Room>
-      <Number_of_Not_Available_Times>128</Number_of_Not_Available_Times>
+      <Number_of_Not_Available_Times>114</Number_of_Not_Available_Times>
       <Not_Available_Time>
         <Day>Mon</Day>
         <Hour>07:00 - 07:30</Hour>
@@ -6564,67 +8692,11 @@
       </Not_Available_Time>
       <Not_Available_Time>
         <Day>Thu</Day>
-        <Hour>08:00 - 08:30</Hour>
-      </Not_Available_Time>
-      <Not_Available_Time>
-        <Day>Thu</Day>
-        <Hour>08:30 - 09:00</Hour>
-      </Not_Available_Time>
-      <Not_Available_Time>
-        <Day>Thu</Day>
-        <Hour>09:00 - 09:30</Hour>
-      </Not_Available_Time>
-      <Not_Available_Time>
-        <Day>Thu</Day>
-        <Hour>09:30 - 10:00</Hour>
-      </Not_Available_Time>
-      <Not_Available_Time>
-        <Day>Thu</Day>
-        <Hour>10:00 - 10:30</Hour>
-      </Not_Available_Time>
-      <Not_Available_Time>
-        <Day>Thu</Day>
-        <Hour>10:30 - 11:00</Hour>
-      </Not_Available_Time>
-      <Not_Available_Time>
-        <Day>Thu</Day>
-        <Hour>11:00 - 11:30</Hour>
-      </Not_Available_Time>
-      <Not_Available_Time>
-        <Day>Thu</Day>
-        <Hour>11:30 - 12:00</Hour>
-      </Not_Available_Time>
-      <Not_Available_Time>
-        <Day>Thu</Day>
         <Hour>12:00 - 12:30</Hour>
       </Not_Available_Time>
       <Not_Available_Time>
         <Day>Thu</Day>
         <Hour>12:30 - 13:00</Hour>
-      </Not_Available_Time>
-      <Not_Available_Time>
-        <Day>Thu</Day>
-        <Hour>13:00 - 13:30</Hour>
-      </Not_Available_Time>
-      <Not_Available_Time>
-        <Day>Thu</Day>
-        <Hour>13:30 - 14:00</Hour>
-      </Not_Available_Time>
-      <Not_Available_Time>
-        <Day>Thu</Day>
-        <Hour>14:00 - 14:30</Hour>
-      </Not_Available_Time>
-      <Not_Available_Time>
-        <Day>Thu</Day>
-        <Hour>14:30 - 15:00</Hour>
-      </Not_Available_Time>
-      <Not_Available_Time>
-        <Day>Thu</Day>
-        <Hour>15:00 - 15:30</Hour>
-      </Not_Available_Time>
-      <Not_Available_Time>
-        <Day>Thu</Day>
-        <Hour>15:30 - 16:00</Hour>
       </Not_Available_Time>
       <Not_Available_Time>
         <Day>Thu</Day>
@@ -7436,7 +9508,7 @@
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>11</Activity_Id>
-      <Room>TMA 102</Room>
+      <Room>TMA 201</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7444,14 +9516,6 @@
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>12</Activity_Id>
-      <Room>TMA 202</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>13</Activity_Id>
       <Room>TMA 204</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -7459,8 +9523,16 @@
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>13</Activity_Id>
+      <Room>TMA 102</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>14</Activity_Id>
-      <Room>TMA 201</Room>
+      <Room>TMA 202</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7468,7 +9540,7 @@
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>48</Activity_Id>
-      <Room>TMA 203</Room>
+      <Room>TMA 201</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7476,7 +9548,7 @@
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>49</Activity_Id>
-      <Room>TMA 201</Room>
+      <Room>TMA 102</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7492,7 +9564,7 @@
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>80</Activity_Id>
-      <Room>TMA 102</Room>
+      <Room>TMA 101</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7516,7 +9588,7 @@
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>84</Activity_Id>
-      <Room>TMA 201</Room>
+      <Room>TMA 202</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7524,7 +9596,7 @@
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>85</Activity_Id>
-      <Room>TMA 201</Room>
+      <Room>TMA 101</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7532,7 +9604,7 @@
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>86</Activity_Id>
-      <Room>TMA 202</Room>
+      <Room>TMA 102</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7540,7 +9612,7 @@
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>87</Activity_Id>
-      <Room>TMA 101</Room>
+      <Room>TMA 202</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7548,30 +9620,6 @@
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>88</Activity_Id>
-      <Room>TMA 102</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>89</Activity_Id>
-      <Room>TMA 202</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>334</Activity_Id>
-      <Room>TMA 202</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>335</Activity_Id>
       <Room>TMA 201</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -7579,15 +9627,15 @@
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>336</Activity_Id>
-      <Room>TMA 101</Room>
+      <Activity_Id>89</Activity_Id>
+      <Room>TMA 201</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>337</Activity_Id>
+      <Activity_Id>334</Activity_Id>
       <Room>TMA 204</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -7595,7 +9643,15 @@
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>338</Activity_Id>
+      <Activity_Id>335</Activity_Id>
+      <Room>TMA 101</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>336</Activity_Id>
       <Room>TMA 102</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -7603,8 +9659,24 @@
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>337</Activity_Id>
+      <Room>TMA 201</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>338</Activity_Id>
+      <Room>TMA 202</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>404</Activity_Id>
-      <Room>TMA 102</Room>
+      <Room>TMA 101</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7620,7 +9692,7 @@
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>480</Activity_Id>
-      <Room>TMA 202</Room>
+      <Room>TMA 204</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7628,14 +9700,6 @@
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>481</Activity_Id>
-      <Room>TMA 201</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>482</Activity_Id>
       <Room>TMA 102</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -7643,8 +9707,16 @@
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>482</Activity_Id>
+      <Room>TMA 201</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>483</Activity_Id>
-      <Room>TMA 101</Room>
+      <Room>TMA 202</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7652,7 +9724,7 @@
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>484</Activity_Id>
-      <Room>TMA 204</Room>
+      <Room>TMA 101</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
@@ -7676,14 +9748,6 @@
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
       <Activity_Id>556</Activity_Id>
-      <Room>TMA 202</Room>
-      <Permanently_Locked>false</Permanently_Locked>
-      <Active>true</Active>
-      <Comments></Comments>
-    </ConstraintActivityPreferredRoom>
-    <ConstraintActivityPreferredRoom>
-      <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>557</Activity_Id>
       <Room>TMA 102</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
@@ -7691,8 +9755,16 @@
     </ConstraintActivityPreferredRoom>
     <ConstraintActivityPreferredRoom>
       <Weight_Percentage>100</Weight_Percentage>
-      <Activity_Id>558</Activity_Id>
+      <Activity_Id>557</Activity_Id>
       <Room>TMA 201</Room>
+      <Permanently_Locked>false</Permanently_Locked>
+      <Active>true</Active>
+      <Comments></Comments>
+    </ConstraintActivityPreferredRoom>
+    <ConstraintActivityPreferredRoom>
+      <Weight_Percentage>100</Weight_Percentage>
+      <Activity_Id>558</Activity_Id>
+      <Room>TMA 101</Room>
       <Permanently_Locked>false</Permanently_Locked>
       <Active>true</Active>
       <Comments></Comments>
